@@ -18,7 +18,7 @@
 
 ```bash
 # 克隆到 skills 目录
-git clone https://github.com/yanye09/da--knowledge.skill.git ~/.claude/skills/da+-knowledge.skill
+git clone https://github.com/yanye09/da--knowledge.skill.git ~/.claude/skills/dajia-knowledge
 ```
 
 触发方式：对话中提到「搭+」「Da+」「搭加」等关键词即自动激活。
@@ -26,7 +26,7 @@ git clone https://github.com/yanye09/da--knowledge.skill.git ~/.claude/skills/da
 ## 目录结构
 
 ```
-da+-knowledge.skill/
+dajia-knowledge/
 ├── SKILL.md                 # 调用规则 + 检索机制 + 同步触发
 ├── knowledge/               # 项目知识库（结构化摘要）
 │   ├── faq.md               # 高频问题速查

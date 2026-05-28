@@ -1,5 +1,5 @@
 ---
-name: da+-knowledge.skill
+name: dajia-knowledge
 description: |
   搭+（Da+）小程序项目知识库。覆盖产品定位、功能清单、业务规则、技术决策、版本演进、源码索引。
   TRIGGER when: 用户提到「搭+」「Da+」「搭加」「搭+小程序」「搭+平台」，或询问搭+的功能、业务规则、产品设计、版本历史、技术架构、PRD。
@@ -11,7 +11,7 @@ description: |
 ## Skill 架构
 
 ```
-da+-knowledge.skill/
+dajia-knowledge/
 ├── SKILL.md                 ← 调用规则 + 检索机制 + 同步触发 + 盲答禁令
 ├── knowledge/               ← 项目知识库（结构化摘要）
 │   ├── faq.md               ← 高频问题速查（先扫此文件）

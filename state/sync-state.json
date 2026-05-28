@@ -1,0 +1,22 @@
+{
+  "last_sync": "2026-05-28T12:00:00+08:00",
+  "sources": {
+    "prd_doc": {
+      "url": "https://scntlaw1t3yy.feishu.cn/docx/FkFZdljhJoJN1xx0QgfcqxgBnsf",
+      "token": "FkFZdljhJoJN1xx0QgfcqxgBnsf",
+      "revision_id": 20,
+      "content_hash": "645e69c69dd57c88",
+      "content_length": 47110,
+      "last_fetched": "2026-05-28T12:00:00+08:00"
+    },
+    "ledger_sheet": {
+      "url": "https://scntlaw1t3yy.feishu.cn/wiki/FGjtwH4qQi4trUkvPQvcM24unHh",
+      "spreadsheet_token": "W5fJsGIEPhyee1ttMU6c1keUnmc",
+      "sheet_id": "1",
+      "sheet_title": "搭+产品月度更新优化台账",
+      "row_count": 308,
+      "obj_edit_time": 1779949711,
+      "last_fetched": "2026-05-28T12:00:00+08:00"
+    }
+  }
+}
